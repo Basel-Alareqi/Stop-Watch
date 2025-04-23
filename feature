@@ -8,7 +8,6 @@ Feature 3
 Feature 3 after checkout
 *******
 Conflict 1
-*********
+feature3
 
-feature1 branch
 
