@@ -10,3 +10,5 @@ Feature 3 after checkout
 Conflict 1
 *****
 feature3
+********
+
